@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">M01_Calculator</string>
+    <string name="first_number">First number:</string>
+    <string name="second_number">Second number:</string>
+    <string name="answer">Answer:</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="divide">DIVIDE</string>
+    <string name="error_div_by_0">Error: Div by 0</string>
+    <string name="invalid_input">Invalid Input</string>
+</resources>
